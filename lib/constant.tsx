@@ -51,7 +51,7 @@ export const MediaLinks = [
  
   {
     title: "Linkedin",
-    href: "/https://www.linkedin.com/in/abubakar-abdullah-18b009271",
+    href: "https://www.linkedin.com/in/abubakar-abdullah-18b009271",
   },
 ];
 
