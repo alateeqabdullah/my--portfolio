@@ -7,11 +7,11 @@ export default function Mine() {
     <main className=" container  ">
       <section className="gap-x-20 flex flex-col md:flex-row justify-center items-center mt-20 ">
         <Image
-          src={"/avatar1.jpg"}
+          src={"/avatar.jpg"}
           width={300}
-          height={100}
+          height={50}
           alt="myAvatar"
-          className="mb-16 md:mb-0 rounded-full "
+          className="mb-16 md:mb-0 rounded-xl "
         />
         <div className=" text-center font-semibold tracking-widest leading-10  ">
           <p className=" text-gray-400  font-bold ">Hello, This is </p>

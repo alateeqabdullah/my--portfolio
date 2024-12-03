@@ -20,7 +20,7 @@ const portfolioProjects = [
       { title: "Improved site speed by 50%" },
       { title: "Increased mobile traffic by 35%" },
     ],
-    link: "https://youtu.be/4k7IdSLxh6w",
+    link: "https://rmtdevjob.vercel.app",
     image: rmtdev,
   },
   {
@@ -44,21 +44,21 @@ const portfolioProjects = [
       { title: "Improved site speed by 50%" },
       { title: "Increased mobile traffic by 35%" },
     ],
-    link: "https://youtu.be/Z7I5uSRHMHg",
+    link: "https://world-wise-f1g6.vercel.app",
     image: worldWise,
   },
-  // {
-  //   company: "Quantum Dynamics",
-  //   year: "2023",
-  //   title: "AI Startup Landing Page",
-  //   results: [
-  //     { title: "Enhanced user experience by 40%" },
-  //     { title: "Improved site speed by 50%" },
-  //     { title: "Increased mobile traffic by 35%" },
-  //   ],
-  //   link: "https://youtu.be/Z7I5uSRHMHg",
-  //   image: aiStartupLandingPage,
-  // },
+  {
+    company: "Abdullah Abubakar",
+    year: "2024",
+    title: "Portfolio Website",
+    results: [
+      { title: "Enhanced user experience by 40%" },
+      { title: "Improved site speed by 50%" },
+      { title: "Increased mobile traffic by 35%" },
+    ],
+    link: "https://youtu.be/Z7I5uSRHMHg",
+    image: "",
+  },
 ];
 
 export const ProjectsSection = () => {
