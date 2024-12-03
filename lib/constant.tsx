@@ -59,7 +59,7 @@ export const contacts = [
   {
     title: "Email",
     icon: <MdEmail />,
-    href: "/mailto:alateeqabdullah36@gmail.com",
+    href: "mailto:alateeqabdullah36@gmail.com",
    
   },
   {
@@ -70,6 +70,6 @@ export const contacts = [
   {
     title: "LinkedIn",
     icon: <FaLinkedin />,
-    href: "/https://www.linkedin.com/in/abubakar-abdullah-18b009271",
+    href: "https://www.linkedin.com/in/abubakar-abdullah-18b009271",
   },
 ];
